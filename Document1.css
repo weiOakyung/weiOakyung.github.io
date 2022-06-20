@@ -1,0 +1,98 @@
+body{
+	text-align:center;
+	
+}
+table, tr, td {
+  text-align:center;
+  font-size:20px;
+}
+
+h1{
+  text-align:center;
+  position: relative;
+  font-size:48px;
+  top:30px;
+}
+p{
+  text-align:center;
+  position: relative;
+  font-size:34px;
+}
+#enterr{
+	font-size:36px;
+	width:900px;
+	height:100px;
+	border:2px blue none;
+	background:#E6CAFF;
+	border-radius: 10px;
+}
+#n1{
+	background:#C4E1FF;
+	text-align:center;
+	position: relative;
+	top:3100px;
+}
+#n2{
+	background:#C4E1FF;
+	text-align:center;
+	position: relative;
+	top:3100px;
+}
+#n3{
+	background:#C4E1FF;
+	text-align:center;
+	position: relative;
+	top:3100px;
+}
+#n4{
+	background:#C4E1FF;
+	text-align:center;
+	position: relative;
+	top:4100px;
+}
+#result{
+	background:#A3D1D1;
+	text-align:center;
+	position: relative;
+	top:5100px;
+}
+#bu{
+	font-size:48px;
+	width:1000px;
+	height:100px;
+	border:2px blue none;
+	background:#E8FFF5;
+	border-radius: 20px;
+}
+#A{
+	font-size:32px;
+	width:1000px;
+	height:100px;
+	border:2px blue none;
+	background:#F1E1FF;
+	border-radius: 10px;
+}
+#B{
+	font-size:32px;
+	width:1000px;
+	height:100px;
+	border:2px blue none;
+	background:	#FFFFDF;
+	border-radius: 10px;
+}
+#C{
+	font-size:32px;
+	width:1000px;
+	height:100px;
+	border:2px blue none;
+	background:	#FFECF5;
+	border-radius: 10px;
+}
+#restart{
+	font-size:24px;
+	width:400px;
+	height:40px;
+	border:2px blue none;
+	background:#C4E1E1;
+	border-radius: 30px;
+}
